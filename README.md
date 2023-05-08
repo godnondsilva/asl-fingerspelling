@@ -4,7 +4,7 @@
 
 Fingerspelling, also known as dactylology, is the method of spelling words using hand movements. The fingerspelling alphabet is a part of sign language and is used to spell out names of people and places for which there is no sign. Fingerspelling is also used to clarify a sign to the person who is unable to read the signer.
 
-## About
+## Setup information
 
 - Tested on python version `3.10` on windows
 - Create a virtual environment `virtualenv venv`
