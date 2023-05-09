@@ -7,9 +7,9 @@ Fingerspelling, also known as dactylology, is the method of spelling words using
 ## Setup information
 
 - Tested on python version `3.10` on windows
-- Create a virtual environment `virtualenv venv`
+- Initially, run the setup.sh file `bash setup.sh`.
 - Activate the virtual environment `source ./venv/Scripts/activate`
-- Install the packages `pip install -r requirements.txt`
+- Run the application `py app.py`
 
 ## Additional information
 
